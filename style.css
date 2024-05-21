@@ -1,0 +1,109 @@
+body h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+header {
+    display: flex;
+    background-color: #6a72e7;
+    color: white;
+    padding: 20px;
+    offset-position: top;
+    text-align: left;
+    position: relative;
+}
+img {
+    width: 100%;
+    margin-bottom: 0%;
+}
+.btn1 {
+    background-color: #6a72e7;
+    padding: 20px;
+    color: #ffffff;
+    text-decoration: none;
+    margin-left: 300px;
+    margin-right: 120px;
+
+}
+.btn2 {
+    background-color: #6a72e7;
+    padding: 20px;
+    color: #ffffff;
+    text-decoration: none;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+.btn3 {
+    background-color: #6a72e7;
+    padding: 20px;
+    color: #ffffff;
+    text-decoration: none;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+.btn4 {
+    background-color: #6a72e7;
+    padding: 20px;
+    color: #ffffff;
+    text-decoration: none;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+.logos {
+    width: 100px;
+    margin-right: 1%;
+
+}
+.lis {
+    padding: 20%;
+    color: #333;
+    text-decoration: none;
+}
+.liss {
+    padding: 45%;
+    color: #333;
+    text-decoration: none;
+}
+.container {
+    background-color: #6a72e7;
+    width: 600%;
+    margin: 0 auto;
+    padding: 100px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.container p {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+footer {
+    background-color: #6c25be;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
+}
+
+
+.costados {
+    width: 300px;
+}
+button {
+    background-color: #6c25be;
+    color: rgb(255, 255, 255);
+}
+.container2{
+    display: flex;
+
+    background-color: #6c25be;
+
+
+
+}
+.costados{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
